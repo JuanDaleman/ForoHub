@@ -13,11 +13,11 @@ Insomnia: Herramienta para pruebas de API.
 
 ## Funcionalidades del Foro:
 
-Crear Tópico: Permite a los usuarios crear nuevos tópicos en el foro.
-Leer Tópicos: Muestra todos los tópicos creados en el foro.
-Leer Tópico Específico: Permite visualizar un tópico específico junto con sus detalles.
-Actualizar Tópico: Permite a los usuarios actualizar la información de un tópico existente.
-Eliminar Tópico: Permite a los usuarios eliminar un tópico del foro.
+Crear Tópico: Permite a los usuarios crear nuevos tópicos en el foro.  
+Leer Tópicos: Muestra todos los tópicos creados en el foro.  
+Leer Tópico Específico: Permite visualizar un tópico específico junto con sus detalles.  
+Actualizar Tópico: Permite a los usuarios actualizar la información de un tópico existente.  
+Eliminar Tópico: Permite a los usuarios eliminar un tópico del foro.  
 
 El proyecto consiste en la implementación de una API RESTful que maneja las operaciones CRUD para los tópicos del foro. La API sigue las mejores prácticas del modelo REST y realiza validaciones según las reglas del negocio. La persistencia de la información se maneja a través de una base de datos MySQL.
 
